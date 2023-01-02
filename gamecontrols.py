@@ -1,5 +1,5 @@
 """
-CS1111 PROJECT: Jason Kim and Kusha Soltani
+CS1111 PROJECT: Jason Kim
 Previously, in CP1 we were going to do fire boy and water girl, but we decided to change the idea.
 This game is inspired by Johnny Upgrade - a game where you are racing against time to collect coins and buy upgrades in
                                             a shop to get to the final boss and survive!
